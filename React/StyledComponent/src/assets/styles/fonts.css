@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Crafty Girls';
+  font-style: 'cursive';
+  font-weight: normal;
+  src: local('Crafty Girls'), url('../fonts/crafty-girls.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sauce Sans Light';
+  font-style: 'cursive';
+  font-weight: normal;
+  src: local('Open Sauce Sans Light'), url('../fonts/OpenSauceSans-Light.ttf') format('truetype');
+}
